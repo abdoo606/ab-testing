@@ -20,3 +20,7 @@ pytest projects/18-ab-testing -q
 - `abtest.stats.required_sample_size` before you run the test, not after
 - Recommendation strings that say 'inconclusive' when they mean it
 - A function that quantifies the cost of peeking at results
+
+## Repository
+- GitHub: https://github.com/{owner}/ab-testing
+- Python 3.11+ · tests: `pytest` · runtime dependencies: none (standard library only)
